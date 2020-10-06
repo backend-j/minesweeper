@@ -17,5 +17,6 @@
         + 범위 내에 지뢰가 있는 경우 해당 위치는 증가 제외 
         + 조회 범위가 전체 보드 사이즈 범위를 넘는 경우 증가 제외
         
- 4. 출력
- ![minesweeper_output](minesweeper_output.png)
+ 4. 출력  
+ 
+ ![minesweeper_output](./minesweeper_output.png)
