@@ -18,3 +18,4 @@
         + 조회 범위가 전체 보드 사이즈 범위를 넘는 경우 증가 제외
         
  4. 출력
+ ![minesweeper_output](minesweeper_output.png)
